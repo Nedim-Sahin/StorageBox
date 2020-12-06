@@ -1,0 +1,8 @@
+export { default as Cpu } from './Cpu'
+export { default as CreditCard } from './CreditCard'
+export { default as Home } from './Home'
+export { default as Mail } from './Mail'
+export { default as MapPin } from './MapPin'
+export { default as MessageCircle } from './MessageCircle'
+export { default as QrCode } from './QrCode'
+export { default as Settings } from './Settings'

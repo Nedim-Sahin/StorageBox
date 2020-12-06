@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821964130338",
+    "firebase_url": "https://storage-box-bdec3.firebaseio.com",
+    "project_id": "storage-box-bdec3",
+    "storage_bucket": "storage-box-bdec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821964130338:android:bf5edfe1d36e8d4e2c227b",
+        "android_client_info": {
+          "package_name": "com.storageboxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821964130338-qvkh1hdrb2qm1ljg24ppjdg7r00rqufa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Pk9BGPnJ52xu1JrhghIVu1hwlnYAjZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821964130338-qvkh1hdrb2qm1ljg24ppjdg7r00rqufa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
